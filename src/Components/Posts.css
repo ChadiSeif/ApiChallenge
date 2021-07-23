@@ -1,0 +1,4 @@
+.userpost {
+  display: flex;
+  flex-direction: column;
+}
